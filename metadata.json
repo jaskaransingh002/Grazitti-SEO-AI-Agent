@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI SEO Agent",
+  "description": "An intelligent SEO auditing tool that analyzes website URLs, checks for key on-page SEO elements, and leverages the Gemini API to provide actionable recommendations for improving search engine rankings.",
+  "requestFramePermissions": []
+}
